@@ -2,6 +2,9 @@
 
 A modern, interactive Tic-Tac-Toe game built with React. Play against a friend in this classic strategy game with a clean, user-friendly interface.
 
+## Live Site
+https://riiach.github.io/Tic-Tac-Toe-Game/
+
 ## Features
 
 - **Two-Player Gameplay**: Play with a friend taking turns as X and O
