@@ -82,10 +82,10 @@ Works on all modern browsers that support:
 - CSS Grid
 - HTML5
 
-## Contributing
+## 👤 Author
 
-Feel free to fork this project and submit pull requests for improvements.
+**Ria Choi**
+💼 www.linkedin.com/in/ria-choi-76a658309
+📧 riiachoii@gmail.com
 
-## License
-
-This project is open source and available under the MIT License.
+If you like this project, consider ⭐ starring the repo!
